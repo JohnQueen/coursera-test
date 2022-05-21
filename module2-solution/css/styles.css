@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#d {
+    width: 30%;
+    background-color: #7f7b7b
+}
+
+section {
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    position: relative;
+    float: right;
+    background-color: beige;
+  }
+
+p {
+    margin: 10px;
+
+}
